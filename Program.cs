@@ -11,7 +11,9 @@ namespace Prueba
         static void Main(string[] args)
         {
             Console.WriteLine("PN");
+            Console.WriteLine("xd");
             Console.ReadLine();
+
         }
     }
 }
